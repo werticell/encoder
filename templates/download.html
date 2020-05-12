@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Upload</title>
+  </head>
+  <body>
+    {% extends "menu_template.html" %}
+    {% block content %}
+
+     <div class="container" align="left">
+		<a href="{{ url_for('download_page') }}" target="blank"><button class='btn btn-default'>Download!</button></a>
+     </div>
+
+    <input type="button" onclick="history.back();" value="Go back"/>
+    {% endblock %}
+  </body>
+</html>

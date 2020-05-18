@@ -41,7 +41,7 @@ def check_errors(cipher, key, file, mode):
     return ' '.join(errors), key, cipher
 
 
-def handle_input(file, line_input, mode, cipher, key=0):
+def handle_input(file, string_input, mode, cipher, key=0):
     result = ''
     errors, key, cipher = check_errors(cipher, key, file, mode)
     if not errors:
@@ -54,7 +54,7 @@ def handle_input(file, line_input, mode, cipher, key=0):
                 with open(OUTPUT_FILE, 'r') as file:
                     result = ''.join(file.readlines())
             else:
-                result = transform_line(line_input, cipher, mode, key)
+                result = transform_line(string_input, cipher, mode, key)
         else:
             filename = secure_filename(file.filename)
             file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
@@ -71,42 +71,20 @@ def main_page():
     return render_template('main_page.html')
 
 
-@app.route("/encoder", methods=["GET", "POST"])
-def encoder_page():
+@app.route("/<mode>", methods=["GET", "POST"])
+def encoder_pages(mode):
     errors = ''
     result = ''
     if request.method == "POST":
-        errors, result = handle_input(request.files['file'], request.form['input'], 'encode', request.form['cipher'],
-                                      request.form['key'])
+        try:
+            key = request.form['key']
+        except KeyError:
+            key = 0
+        errors, result = handle_input(request.files['file'], request.form['input'], mode, request.form['cipher'], key)
         if request.files['file'] and not errors:
             return render_template('download.html')
 
-    return render_template('encoder_page.html', errors=errors, result=result)
-
-
-@app.route("/decoder", methods=["GET", "POST"])
-def decoder_page():
-    errors = ''
-    result = ''
-    if request.method == "POST":
-        errors, result = handle_input(request.files['file'], request.form['input'], 'decode', request.form['cipher'],
-                                      request.form['key'])
-        if request.files['file'] and not errors:
-            return render_template('download.html')
-
-    return render_template('decoder_page.html', errors=errors, result=result)
-
-
-@app.route("/breaker", methods=["GET", "POST"])
-def breaker_page():
-    result = ''
-    errors = ''
-    if request.method == "POST":
-        errors, result = handle_input(request.files['file'], request.form['input'], 'break', request.form['cipher'])
-        if request.files['file'] and not errors:
-            return render_template('download.html')
-
-    return render_template('breaker_page.html', result=result, errors=errors)
+    return render_template('encoder_pages.html', mode=mode, errors=errors, result=result)
 
 
 @app.route("/download", methods=["GET", "POST"])

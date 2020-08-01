@@ -13,7 +13,9 @@ Executing
 результат, шифр (Цезарь или Виженер) и ключ шифра. 
 Входной и выходной файл могут быть не указаны, 
 тогда ввод или вывод осуществляется через консоль.
-###Параметры запуска
+
+Параметры запуска
+-----------------
 
 Какой-то один из четырех режимов encode, decode, count_freq, break.<br/>
 --input_file <path_to_file> (путь к файлу, который вы хотите закодировать/декодировать/посчитать частнотность символов/ взломать).<br/>
@@ -23,7 +25,8 @@ Executing
 --cipher (тип шифра с которым вы хотите закодировать/декодировать исходный файл)<br/>
 --key (ключ для соответствующей кодировки)<br/>
 
-####Примеры запуска для шифра Цезаря
+Примеры запуска для шифра Цезаря
+-----------
 
        python3 encoder.py encode --input_file alice.txt --output_file alice_cod.txt --cipher caesar --key 9
        
@@ -33,7 +36,8 @@ Executing
        
        python3 encoder.py break --input_file alice_cod.txt --output_file break_result.txt --freq_file statistics.txt
 
-####Примеры запуска для шифра Виженера
+Примеры запуска для шифра Виженера
+-----------
        python3 encoder.py encode --input_file alice.txt --output_file alice_cod_veg.txt --cipher vigenere --key lemon
        
        python3 encoder.py decode --input_file alice_cod_veg.txt --output_file final_veg.txt --cipher vigenere --key lemon

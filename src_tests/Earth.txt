@@ -1,0 +1,1107 @@
+The Project Gutenberg EBook of Secrets of Earth and Sea, by Ray Lankester
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Secrets of Earth and Sea
+
+Author: Ray Lankester
+
+Release Date: December 17, 2016 [EBook #53751]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SECRETS OF EARTH AND SEA ***
+
+
+
+
+Produced by Charlene Taylor, Christian Boissonnas and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+SECRETS OF EARTH AND SEA
+
+
+[Illustration: DIMETRODON GIGAS, AN EXTINCT LIZARD, SEVEN FEET LONG]
+
+
+
+
+  SECRETS OF EARTH
+  AND SEA
+
+  BY
+
+  SIR RAY LANKESTER
+  K.C.B., F.R.S.
+
+  WITH NUMEROUS ILLUSTRATIONS
+
+
+  NEW YORK
+  THE MACMILLAN COMPANY
+  1920
+
+
+
+
+PREFACE
+
+
+The present volume is, like its predecessors, "Science from an Easy
+Chair" (Series I and Series II) and "Diversions of a Naturalist"—mainly
+a revision and reprint–with considerable additions–of articles
+published in daily or weekly journals. The first chapter appeared
+originally in "The Field." The Chapters VI, XX, XXI, and XXII were
+published in the "Illustrated London News," under the title "About a
+Number of Things." The rest are some of the articles which, as "Science
+from an Easy Chair," I contributed, during seven years, to the "Daily
+Telegraph." That, to me very happy, conjunction was, like so many other
+happy things, necessarily interrupted by the Great War.
+
+One result of that terrible cataclysm is that not a few thoughtful
+writers have been led to deny the existence of what they call
+"Progress," meaning by that word the development of mankind from a
+less to a more complete attainment of moral and physical well-being.
+The question raised is obscured by the arbitrary use of the word
+"progress," since by it any movement from point to point–whether
+advantageous and desirable or the reverse–is described, as, for
+instance, in the familiar titles given by Bunyan to his book "The
+Pilgrim's Progress" and by Hogarth to his pictures "The Rake's
+Progress." Those who to-day despair of man's future limit their
+outlook on the past to the conventional history of some three or four
+thousand years. The only solid ground upon which we can base the
+supposition that mankind has moved from a less to a more complete
+attainment of moral and physical well-being and will continue to do so,
+exists in the ascertained facts of the past history of living things
+on this Earth, and of man since his earliest emergence from among the
+man-like apes made known to us by his stone-implements and fossilized
+bones. That there has been a development from lower, simpler structure
+to higher, more complex, more efficient structure is demonstrable,
+and so is the proposition that there has been in the human race a
+continuous development in the direction of increased adaptation to the
+conditions of social life and an increased control by man of those
+natural agencies which he can either favour when conducive to his
+prosperity, or on the other hand can arrest when inimical to it. "The
+continuous weakening of selfishness and the continuous strengthening
+of sympathy" (to adopt the words of the American philosopher, Fiske)
+are, in spite of numerous lapses and outbursts of savagery, patent
+features of the long history of mankind. We have no reason to doubt
+their continuation, whilst at the same time we must be prepared for
+and accept, without desponding, the ups and the downs, the disasters
+as well as the triumphs, which inevitably characterize the natural
+process of evolution. One thing, above all others, we as conscious,
+reasoning beings can do which must tend to the further development and
+security of human well-being: we can ascertain ever more and more of
+the truth, or in other words, "that which is." We can discover the
+actual conditions of natural law, under which we exist and promote the
+knowledge of that truth among our fellows. To do that which is right,
+we must know that which is true. To act rightly, we must know truly.
+
+We possess, a vast heritage of knowledge handed on to us in tradition
+and in writings from our father-man in the past. But there are yet
+immense fields of knowledge to be explored and yet a greater task to
+be accomplished in spreading the knowledge which we possess, and in
+persuading all men that it is their right and their duty to acquire it
+and to enjoy the power and the pleasure which it gives. All must also
+help, directly or indirectly, in the making of new knowledge. Whilst
+mankind is still so backward in knowledge and the worship of wisdom, it
+is idle to indulge in despair of the future. A chief way to increased
+welfare is still open and untrodden.
+
+These are big speculations and problems with which to preface a small
+book. But I am content to offer the small book as a contribution,
+however restricted, to the spread of a desire for further knowledge of
+the things about which it tells–a possible incitement to serious study
+of some one or other among them.
+
+                                        E. RAY LANKESTER
+
+  _June 2nd, 1920_
+
+
+
+
+CONTENTS
+
+
+  CHAP.                                                            PAGE
+
+      I. THE EARLIEST PICTURE IN THE WORLD                            1
+
+     II. PORTRAITS OF MAMMOTHS BY MEN WHO SAW THEM                   26
+
+    III. THE ART OF PREHISTORIC MEN                                  35
+
+     IV. VESUVIUS IN ERUPTION                                        55
+
+      V. BLUE WATER                                                  74
+
+     VI. THE BIGGEST BEAST                                           84
+
+    VII. WHAT IS MEANT BY "A SPECIES"?                               92
+
+   VIII. MORE ABOUT SPECIES                                         100
+
+     IX. SPECIES IN THE MAKING                                      108
+
+      X. SOME SPECIFIC CHARACTERS                                   118
+
+     XI. HYBRIDS                                                    131
+
+    XII. THE CROSS-BREEDING OF RACES                                139
+
+   XIII. WHEEL ANIMALCULES                                          157
+
+    XIV. MORE ABOUT WHEEL ANIMALCULES                               165
+
+     XV. SUSPENDED ANIMATION                                        173
+
+    XVI. MORE ABOUT SUSPENDED ANIMATION                             182
+
+   XVII. THE SWASTIKA                                               191
+
+  XVIII. THE ORIGIN OF THE SWASTIKA                                 200
+
+    XIX. THE TOMOYE AND THE SWASTIKA                                209
+
+     XX. COAL                                                       217
+
+    XXI. BORING FOR OIL                                             223
+
+   XXII. THE STORY OF LIME-JUICE AND SCURVY                         229
+
+         INDEX                                                      239
+
+
+
+
+EXPLANATION OF THE FRONTISPIECE
+
+
+This plate shows the restoration of the extinct lizard, Dimetrodon
+gigas (Cope), lately made by Mr. Charles W. Gilmore of the United
+States National Museum, by whose kind permission it is here reproduced
+from the Proceedings of the U.S. National Museum, vol. 56, 1919. It is
+based upon the study of a very fine skeleton and some hundred bones of
+allied species, collected by Mr. Sternberg from "the Permian formation"
+exposed in the vicinity of Seymour, Texas, U.S.A. It is selected for
+illustration here because its most striking feature–the high dorsal
+fin-like crest along the middle of the back formed by the elongation
+of the neural spines of the vertebræ–is a puzzle to the conscientious
+Darwinian. Professor Case says of it: "The elongate spines were
+useless, so far as I can imagine, and I have been puzzling over them
+for several years. It is impossible to conceive of them as useful
+either for defence or concealment, or in any other way than as a great
+burden to the creatures (terrestrial non-aquatic animals) that bore
+them. They must have been a nuisance in getting through the vegetation,
+and a great drain upon the creature's vitality, both to develop them
+and keep them in repair." The reader is referred to pp. 127, 128,
+where a brief discussion of such exuberant growths will be found. The
+excessive growth of the median fins in the fish Pteraclis allied to the
+Dolphin which displays changing floods of surface colour as it dies–and
+in the Australian Blenny called Patæcus–both figured on p. 130–should
+be compared with that of the strange crest of the grotesque Dimetrodon.
+
+
+
+
+LIST OF ILLUSTRATIONS
+
+
+  DIMETRODON                                             _Frontispiece_
+
+  FIGS.                                                            PAGE
+
+   1, 2.  ENGRAVED CYLINDER OF RED-DEER'S ANTLER, FROM THE AZILIAN
+            (ELAPHO-TARANDIAN) HORIZON OF THE CAVERN OF LORTET        1
+
+   3. _A._ PERFORATED HARPOON OF THE AZILIAN OR RED-DEER PERIOD.
+           _B._ AND _C._ IMPERFORATE HARPOONS OR LANCE HEADS          3
+
+   4. ROLLED IMPRESSION OR "DEVELOPMENT" OF THE ENGRAVING ON THE
+           LORTET ANTLER                                             12
+
+   5. RESTORATION (OR COMPLETION) OF THE ENGRAVING ON THE LORTET
+           ANTLER                                                    13
+
+   6. FRAGMENT OF A ROUGHLY-PAINTED VASE OF THE DIPYLON AGE
+           (_CIRCA_ 800 B.C.) FROM TIRYNS                            23
+
+   7. ENGRAVING OF A MAMMOTH DRAWN UPON A PIECE OF MAMMOTH IVORY     26
+
+   8. OUTLINE ENGRAVINGS OF MAMMOTHS ON THE WALL OF THE CAVERN
+           KNOWN AS THE "FONT DE GAUME," NEAR EYZIES (DORDOGNE)      32
+
+   9. SIMILAR ENGRAVINGS FROM THE NEIGHBOURING CAVE OF COMBARELLES   32
+
+  10. _A_, SIMILAR ENGRAVING FROM THE CAVE OF COMBARELLES. _B_,
+           MAMMOTH ENCLOSED BY PLANK-LIKE STRUCTURE–SUPPOSED TO BE
+           EITHER A CAGE OR A TRAP                                   33
+
+  11. HORSE (WALL ENGRAVING), CAVE OF MARSOULAS, HAUTE GARONNE       43
+
+  12. HORSE (WALL ENGRAVING) OUTLINE IN BLACK, CAVE OF NIAUX
+           (ARIÈGE)                                                  43
+
+  13. HORSES: _A_, WALL ENGRAVING (CAVE OF HORNOS DE LA PÉNA).
+           _B_, WALL ENGRAVING FROM CAVERN OF COMBARELLES. _C_,
+           ENGRAVED ON REINDEER ANTLER (MAS D'AZIL)                  43
+
+  14. DRAWING (OF THE ACTUAL SIZE OF THE ORIGINAL) OF A FLAT
+           CARVING IN SHOULDER-BONE OF A HORSE'S HEAD, SHOWING
+           TWISTED ROPE-BRIDLE AND TRAPPINGS                         45
+
+  15. DRAWING (OF THE ACTUAL SIZE OF THE ORIGINAL) OF A FULLY
+           ROUNDED CARVING IN REINDEER'S ANTLER OF THE HEAD OF A
+           NEIGHING HORSE                                            45
+
+  16. REINDEER (ENGRAVING ON SCHIST)                                 46
+
+  17. RHINOCEROS IN RED OUTLINE                                      46
+
+  18. BISON FROM THE ROOF OF THE CAVERN OF ALTAMIRA                  48
+
+  19. BISON: WALL ENGRAVINGS                                         48
+
+  20. BEAR: ENGRAVED ON STALAGMITE, FROM THE CAVE OF TEYJAT NEAR
+           EYZIES                                                    48
+
+  21. BEAR: ENGRAVED ON STONE, MASSOL (ARIÈGE)                       48
+
+  22. WOLF: ENGRAVED ON WALL OF THE CAVE OF COMBARELLES              48
+
+  23. WALL ENGRAVING OF A CAVE LION (COMBARELLES)                    48
+
+  24. GOOSE: SMALL ENGRAVING ON REINDEER ANTLER                      49
+
+  25. FEMALE FIGURE CARVED IN OOLITIC LIMESTONE FROM WILLENDORF,
+           NEAR KREMS, LOWER AUSTRIA (1908)                          50
+
+  26. DRAWING (OF THE ACTUAL SIZE OF THE ORIGINAL) OF AN IVORY
+           CARVING (FULLY ROUNDED) OF A FEMALE HEAD                  51
+
+  27. SEATED FIGURE OF A WOMAN HOLDING A BOVINE HORN IN THE RIGHT
+           HAND                                                      51
+
+  28. MALE FIGURE REPRESENTED IN THE ACT OF DRAWING A BOW OR
+           THROWING A SPEAR                                          51
+
+  29. A PIECE OF MAMMOTH IVORY CARVED WITH SPIRALS AND SCROLLS FROM
+           THE CAVE OF ARUDY (HAUTES PYRÉNÉES)                       54
+
+  30. VESUVIUS AS IT APPEARED BEFORE THE ERUPTION OF AUGUST 24, A.D.
+           79                                                        57
+
+  31. FIVE SUCCESSIVE STAGES IN THE CHANGE OF FORM OF VESUVIUS
+           (FROM PHILLIPS' "VESUVIUS," 1869)                         61
+
+  32. THE UPPER-ARM BONE OR HUMERUS OF THE GREAT REPTILE
+           (GIGANTOSAURUS) OF TENDAGOROO                             88
+
+      THE GIGANTIC REPTILE DIPLODOCUS ON LAND                        91
+
+  33. THE RUDIMENTARY GILL-PLUME OF A CRAYFISH FROM THAT PART OF
+           THE BODY-WALL TO WHICH THE FIRST PAIR OF JAW-LEGS
+           (MAXILLIPEDES) IS ARTICULATED                            122
+
+      STRANGELY-SHAPED FISHES                                       130
+
+  34. DIAGRAM OF _ROTIFER VULGARIS_–THE COMMON WHEEL ANIMALCULE–ONE
+           HUNDRED AND TWENTY TIMES AS LONG AS THE CREATURE ITSELF  158
+
+  35. THE ROTIFER _PEDALION MIRUM_–SEEN FROM THE RIGHT SIDE,
+           MAGNIFIED 180 DIAMETERS                                  161
+
+  36. THE ROTIFER _PEDALION MIRUM_–SEEN FROM THE VENTRAL SURFACE    161
+
+  37. THE ROTIFER _NOTEUS QUADRICORNIS_–TO SHOW ITS CURIOUS
+           FOUR-HORNED CARAPACE                                     163
+
+      THE LARVAL OR YOUNG FORM OF CRUSTACEA KNOWN AS "THE NAUPLIUS" 164
+
+  37 (_bis_). THREE TUBE-BUILDING WHEEL ANIMACULES                  169
+
+      YOUNG STAGES OF GROWTH OR VELIGER LARVÆ OF MARINE SNAILS      181
+
+  38. THE SWASTIKA IN ITS SIMPLEST RECTANGULAR FORM                 191
+
+  39. THREE SIMPLE VARIETIES OF THE SWASTIKA                        192
+
+  40. FOOTPRINT OF THE BUDDHA                                       192
+
+  41. VASE FROM CYPRUS (MYKENÆAN AGE, _CIRCA_ 1200 B.C.); PAINTED
+           WITH LOTUS, BIRD AND FOUR SWASTIKAS                      194
+
+  42. TERRA-COTTA SPINDLE-WHORL MARKED WITH SWASTIKAS               194
+
+  43. ORNAMENT FROM AN ARCHAIC (PRE-HELLENIC) BŒOTIAN VASE, SHOWING
+           SEVERAL SWASTIKAS, GREEK CROSSES AND TWO SERPENTS        195
+
+  43 (_bis_). SWASTIKAS IN BRONZE REPOUSSÉ                          195
+
+  44. SILVER-PLATED BRONZE HORSE GEAR FROM SCANDINAVIA, SHOWING TWO
+           SWASTIKAS, AND BELOW A COMPLEX ELABORATION OF A SWASTIKA 195
+
+  45. ANGLO-SAXON URN FROM SHROPHAM, NORFOLK, ORNAMENTED BY TWENTY
+           SMALL HAND-MADE SWASTIKAS STAMPED INTO THE CLAY          195
+
+  46. PIECE OF A CEREMONIAL BEAD-WORKED GARTER, SHOWING STAR AND
+           TWO SWASTIKAS                                            197
+
+  47. A STONE SLAB FROM THE ANCIENT CITY OF MAYAPAN (YUCATAN,
+           CENTRAL AMERICA), ON WHICH (RIGHT SIDE) A CURVILINEAR
+           SWASTIKA IS CARVED                                       198
+
+  48. DIAGRAM TO SHOW THE DERIVATION OF THE SWASTIKA FROM A GREEK
+           CROSS ENCLOSED BY A CIRCLE                               199
+
+  49. THE GREEK KEY PATTERN IN _A_ RECTANGULAR, AND _B_ CURVILINEAR
+           OR "CURRENT" FORM                                        202
+
+  50. DIAGRAMS OF THE "TRISKELION"                                  203
+
+  51. FOUR STAGES IN THE SIMPLIFICATION OF A DECORATIVE DESIGN–THE
+           ALLIGATOR                                                205
+
+  52. SIMPLIFICATION (GRAMMATIZING) OF DECORATIVE DESIGN            206
+
+  53. SPINDLE-WHORL FROM TROY (FOURTH CITY), WITH THREE SWASTIKAS   206
+
+  54. THE "TOMOYE"–THE JAPANESE BADGE OF TRIUMPH                    209
+
+  55. SYMBOLS OF THE HISTORY OF THE UNIVERSE USED BY THE ANCIENT
+           CHINESE PHILOSOPHER CHU-HSI                              209
+
+  56. DIAGRAMS TO SHOW THE POSSIBLE DERIVATION OF THE SWASTIKA FROM
+           THE INSCRIPTION OF TWO S-LIKE LINES (OR "OGEES") WITHIN
+           A CIRCLE SO AS TO DIVIDE THE CIRCLE INTO FOUR BENT CONES 209
+
+  57. TERRA-COTTA CONE WITH A SEVEN-ARMED SUN-LIKE FIGURE           211
+
+  58. SCALLOPED SHELL DISK, FROM A MOUND NEAR NASHVILLE, TENNESSEE,
+           SHOWING IN THE CENTRE A TETRASKELION WITH FOUR CURVED
+           ARMS                                                     211
+
+  59. AN ALTAR-STONE OF PREHISTORIC AGE                             213
+
+  60. DIAGRAMS OF ARBELI                                            214
+
+
+
+
+SECRETS OF EARTH AND SEA
+
+
+
+
+CHAPTER I
+
+THE EARLIEST PICTURE IN THE WORLD
+
+
+In Figs. 1 and 2 on the next page a cylindrical piece of the antler of
+a red deer is represented of half the natural size. On it are carved
+by in-sunk lines certain representations of animals. It was found in
+the cavern of Lortet, near Lourdes, in the department of the Hautes
+Pyrénées, in the south of France, together with many other remains of
+prehistoric man. This cavern was excavated and all its contents of
+human origin carefully preserved by M. Edouard Piette in 1873 and the
+following years. Drawings of this and other remarkable carved pieces
+of bone and antler, many in the form of harpoon heads, and of small
+chipped flint implements, all found in this cave, were published by
+him.[1] He excavated also several other caverns with great care, and
+his collections were bequeathed by him on his death to the great Museum
+of National Archæology at St. Germain, near Paris, where I have had the
+advantage of studying them.
+
+[Illustration: FIG. 1.
+
+FIG. 2.
+
+FIGS. 1 AND 2.–Engraved cylinder of red-deer's antler, from the Azilian
+(Elapho-Tarandian) horizon of the cavern of Lortet. Drawn of a little
+more than half the actual size of the specimen.]
+
+The age assigned to this carving is that called by Piette
+"Elapho-Tarandian." At this period the reindeer (Tarandus), which
+previously abounded, is giving place to the red deer (Elaphus). The
+layer in which this carving was found belongs to the latest of the
+Palæolithic cave deposits, and was followed by a warmer period, in
+which the red deer and the modern fauna entirely replaced the old
+fauna of the Glacial period. The deposits in Pyrenean caves of the
+Elapho-Tarandian age are characterized by an abundance of large flat
+harpoons serrated on both sides. In this latest horizon of the Reindeer
+period the art of engraving in outline on bone and stone had attained
+the highest pitch of excellence which it reached in the prehistoric
+race of South-West Europe.
+
+[Illustration: FIG. 3.–_A._ Perforated harpoon of the Azilian or
+Red-Deer period, made from antler of red deer, found in quantity in the
+upper layers of deposit in the cavern of the Mas d'Azil (Arriège). _B_
+and _C_. Imperforate harpoons or lance heads made from reindeer antler
+of the Magdalenian period (Reindeer epoch). _B_ from Bruniquel Cave
+(Tarn-et-Garonne). _C_ from a cavern in the Hautes Pyrénées. Same size
+as the objects.]
+
+A very natural tendency among those who hear from time to time
+something of what is being discovered about primitive man is to confuse
+all the periods and races of prehistoric man together, and so picture
+to themselves one ideal "primitive man." My friend Mr. Rudyard Kipling
+does this, although it would be no further from a true conception
+were he to blend his ancient Britons, his Phenicians, his Romans,
+his Saxons, his Normans, and a few Hindoos into one imaginary man
+and represent him as taking a coloured photograph of the Druids of
+Stonehenge on a piece of Egyptian papyrus. Here is Mr. Kipling's vision
+of primitive man:
+
+    Once on a glittering icefield, ages and ages ago,
+    Ung, a maker of pictures, fashioned an image of snow.
+    Later he pictured an aurochs, later he pictured a bear–
+    Pictured the sabre-tooth tiger dragging a man to his lair–
+    Pictured the mountainous mammoth, hairy, abhorrent, alone–
+    Out of the love that he bore them, scribing them clearly on bone,
+    Straight on the glittering icefield, by the caves of the lost Dordogne,
+    Ung, a maker of pictures, fell to his scribing on bone.
+
+The fact is that several prehistoric races have succeeded one another
+in Western Europe during the immensely long period–amounting to
+hundreds of thousands of years–during which man existed before the dawn
+of history. The "lost" or "prehistoric Dordogne" was like the present
+historic Dordogne in regard to the fact that many races and dynasties
+successively held possession of it and left their work in its soil and
+caves.
+
+Passing back through the historic age of iron and the sub-historic
+age of bronze, we come to a time, about four thousand years ago, when
+there were no men in the west of Europe who made use of metals at all,
+although, for a thousand or two years earlier, men were using bronze
+and copper in the East. European races immediately before the first
+use of metals made beautiful implements of stone (chiefly flint), and
+finished them by grinding and polishing them. These men are spoken of
+as Neolithic men, or men of the Neolithic period. They had herds and
+cultivated crops, and they built after a fashion rough houses in wood
+and tombs and temples with great slabs of stone. They made pottery
+and woven cloth. The animals and plants of Europe were the same in
+those late prehistoric times as they are to-day. The Lake dwellings
+of Switzerland belong to this epoch and yield us their remains
+as evidence. The men had very nearly the same set of domesticated
+animals as we have to-day, but they had no skill in carving outlines
+of animals. Their only decorative work consisted of parallel lines,
+straight or in zigzags or in circles, graven on the great stone slabs
+which they erected.
+
+We can trace them back to some seven thousand years B.C. and then comes
+a huge gap–we do not know how many thousand years–in our evidence as
+to what was going on in this part of the world. We find convincing
+proof that before this interval the climate was much colder than it is
+to-day, and that the land surface of Europe was in many respects very
+different from what it became later. Britain was continuous with the
+Continent. There were in that remote period human tribes spread over
+the less frigid valleys of Europe. They had no fields, no herds; they
+fed on the roasted flesh of the animals they chased and on the fish
+they speared, and on wild fruits and roots. They dwelt chiefly, if not
+wholly, in caves, probably also in skin tents, but they did not build
+either in wood or in stone. The age which we thus reach is called the
+Palæolithic, or "ancient" Stone age, because men made use of stone,
+which they chipped into shape, but, unlike the Neolithic people, never
+polished it. We find enormous numbers of these rough or Palæolithic
+stone implements both in caves and in the gravels deposited in the
+ancient beds of rivers. They are so abundant as to prove the existence
+of a very considerable human population in the remote ages when they
+were fashioned and used. The changes which have taken place and the
+time involved since some of these Palæolithic implements were made and
+used may be guessed at (but cannot be definitely calculated) from the
+fact that the beds of the rivers which formed the gravel terraces in
+which they are found in England were, in many cases, from one to six
+hundred feet above the level of the present rivers. The land surface
+has risen and the rivers have simultaneously excavated deep and wide
+valleys leaving terraces of gravel high up on their sides. These show
+where the rivers once flowed. The vastness of the excavation of the
+valley from the level of the old river bed 600 ft. up on the sloping
+hill-side to its present low-lying bed in the floor of the valley–gives
+us some measure of the time which has elapsed in the process.
+
+No one can tell, at present, the limit in the past of Palæolithic man.
+The period of time over which his existence extended, as indicated
+by the trimmed flints undoubtedly made by human workmanship, is a
+matter of hundreds of thousands of years. In Western Europe races came
+and went, succeeded one another and disappeared, either migrating or
+absorbed or more rarely destroyed by the later invaders. Naturally
+enough, in the later deposits of rivers and in the higher layers of
+earth and limestone cake which fill many caves to the depth of 30 or 40
+ft. we find the remains of man's workmanship more abundantly than in
+the older deposits.
+
+We can broadly distinguish in the Palæolithic epoch three (perhaps
+four) periods, separated by the occurrence of great extensions of the
+northern or arctic ice cap of such a volume as to cover North Europe
+and North America, and the simultaneous extension of the glaciers of
+the mountains of Europe. This period of the alternating extension
+and retreat of the great northern glaciers is known as the Glacial
+period, or Ice Age. The _latest_ Palæolithic men are subsequent to
+it–that is, post-Glacial. We can distinguish several successive ages
+of these post-Glacial Palæolithic men, altogether distinct from and
+anterior to the Neolithic men. In the earlier of these ages many of
+the great animals of the Glacial period–now extinct or withdrawn to
+other regions–still survived in Europe. The mammoth survived, but
+was fast dying out in the south and centre of France, and we find
+its outline scratched on ivory and on bone by the early post-Glacial
+men. The lion still survived in Europe, also the hyena, the bear and
+the rhinoceros. The reindeer seems to have been especially abundant,
+and to have been associated with the men of this period. The horse
+was very abundant, and was largely eaten by the earlier post-Glacial
+people. From the first these men show extraordinary artistic skill, and
+have left in their caves many carvings on ivory, bone and stone. In
+the oldest deposits of the post-Glacial age the carvings are complete
+all-round sculptures of small size or carvings in low relief, all
+of rough primitive workmanship. Larger life-size sculptures in rock
+are also found. In later deposits we find better sculpture and also
+engraving on flat pieces of bone and ivory, and also on stone. This
+art persisted, and attained its greatest perfection in the latest
+deposits of all in which the work of Palæolithic man is found. The
+reindeer persisted through this post-Glacial period (hence often called
+"the reindeer period") until the gradual increase of temperature and
+change of herbage and forest led to its migration northwards and to the
+relative abundance of the red deer. It is to this latest period–the
+Elapho-Tarandian of Piette–that the engraved antler figured here (Figs.
+1 and 2) belongs.
+
+At an earlier stage of the post-Glacial period men hunted the bison and
+other large game in the north of Spain and made coloured drawings of
+them on the roofs and walls of their caves, drawings which have been
+copied and preserved: whilst the mammoth, the rhinoceros, the cave
+lion and bear still inhabited south central France and are pictured on
+the walls of caves in that region–as described in Chapter II. Later we
+lose all trace of Palæolithic man and his wonderful artistic skill. He
+seems either to have migrated or to have been absorbed in the immigrant
+Neolithic race–a race singularly devoid of any tendency to artistic
+sculpture or engraving.
+
+The skeletons and skulls of the men of the Reindeer period, or
+post-Glacial Palæolithic men, have been discovered here and there.
+They indicate a fine, tall people with well-shaped skulls and jaws,
+comparable to the nobler modern races. It is convenient to call them
+Cromagnards, since good skulls of the race have been described from
+Cromagnon, in France. There is evidence (from skulls) that another
+race (the negroid so called "Aurignacians") preceded and coexisted to
+some extent in Western Europe with them, but we have, at present, no
+evidence as to whence or how the Neolithic race or the Cromagnard race
+or any of their predecessors came upon the scene!
+
+When we go farther back and reach the actual Glacial period we find
+a very different state of things. The men who then existed in the
+caverns are called the Neander men. They were a short, bandy-legged,
+long-armed, low-browed people, great workers of flints. They had
+the use of fire, and contended with hyenas and bears and lions for
+the occupation of their caverns. In their day–the day of European
+glaciation–the mammoth was in full occupation of the pine forests on
+the edge of the glaciers. But the Neander men made no sculptures, or
+carving, or engravings. The gap between them and the Cromagnon men
+is much greater than that between an Australian black fellow and an
+average Englishman; indeed, the difference is properly expressed by
+regarding the Neander man as a distinct species–Homo neanderthalensis.
+
+Passing again farther back over an immense period of time, we find
+Europe warm again; the glaciers have (for a time) gone or retreated
+far up the mountains but are found in extension again at a still
+earlier date. An inter-Glacial set of animals is now found living in a
+comparatively warm climate in Western Europe. Another elephant (Elephas
+antiquus) is there (not the mammoth), and another rhinoceros (not
+the woolly rhinoceros of the later Glacial period); the hippopotamus
+flourished then in Europe and swam in the Thames and Severn, and there
+too, at last is the sabre-toothed tiger, which did not exist at all at
+a later period! Now was the time when a man, if he could, might have
+"scribed" the image of a sabre-toothed tiger on a piece of bone, but,
+so far as we know, he did not and could not. This was ages before other
+succeeding men walked "on glittering ice fields," and they, in turn,
+were ages earlier than the artistic Cromagnards of the Reindeer period.
+
+The presence of men in the warm inter-Glacial times in Europe is proved
+by the association of rough but undisputed flint implements with the
+inter-Glacial animals and by the discovery of a most interesting human
+jaw (chinless, like that of the Neander men) in what is held to be a
+præ-Glacial deposit at Heidelberg. We have very little knowledge of
+Glacial and præ-Glacial man except well characterized flint implements
+and two skeletons, some detached limb bones, four or five jaws, and
+as many skulls.[2] But of post-Glacial Palæolithic man we know the
+skeletons of the Cromagnard race, their sepulture, their decorative
+necklaces, and their bone and ivory carvings and engravings, and
+the coloured rock paintings and other work of earlier races (the
+Aurignacians, and others) belonging to successive epochs or eras,
+which have been discovered in caves in France, Spain, Belgium, and
+Austria. It was long after them that the Neolithic people appeared.
+
+The preceding remarks will have made it clear that the engraved antler
+here figured was carved by a man who was not really at all primitive,
+although he lived probably between twenty and fifty thousand years ago.
+It will also have been made clear that hundreds of such engravings,
+more or less fragmentary, are known. Some are very skilful works
+of art, others of a much inferior quality. Many, however, show an
+astonishing familiarity with the animal drawn and a sureness of drawing
+which is not surpassed by the work of modern artists (see Chapter III).
+The interest of the particular engraved antler which I am describing
+is that it is the only carving of its age as yet discovered which is
+more than a drawing or sculpture of a single animal. It is a "picture"
+in the sense of being a composition. It is not, it is true, painted–it
+is engraved; but being a composition it is entitled to be called "the
+earliest picture in the world." Let me describe it a little more fully
+with the help of the illustrations.
+
+The engraving has been made on a long cylindrical piece of the red
+deer's antler. It can hardly be considered as decorative, since the
+figures of the animals do not show as such on the cylindrical surface
+(Figs. 1 and 2). Pieces of antler, bone, and ivory carved with
+spiral scrolls and circles which are really decorative and effective
+as decoration are found in these caves (Fig. 29). But often such
+pieces as the present are met with. It has been discovered by French
+archæologists that the true intent of such engravings may be rendered
+evident by rolling the cylinder on a plastic substance (soft wax or
+similar material), when the drawing is "printed off" or "developed"
+as it is termed. A great number of such line engravings have been
+thus printed off or developed, and plaster casts made from the flat
+impressions are preserved in the museum of St. Germain, the engraved
+lines being rendered obvious by letting them fill with printing ink.
+They often give us in this way a "printed" drawing of remarkable
+accuracy and artistic quality. The rolled-off print of our specimen is
+shown in Fig. 4. The cylinder has been damaged by time, but the print
+shows, more or less completely, a vigorous outline drawing of three red
+deer, with six salmon-like fish placed in a decorative way above them
+and between their legs. Two lozenge-shaped outlines (above the larger
+stag) are held by good authorities to be the signature of the artist.
+The group of deer is represented in movement. The largest stag is on
+the right; his hindquarters are broken away by injury to the cylinder.
+He is commencing to advance, and turns his head backwards to see what
+is the thing which has alarmed him and his companions; at the same time
+his mouth is open, and he is "blowing." The second stag is a younger
+and smaller animal, and is retreating more rapidly. The cylinder is
+damaged so that, although all the four legs of this second stag are
+preserved, the head and neck are gone, though the points of the antlers
+are preserved. The same damage has removed all but the hind legs of the
+still younger animal who heads the group. The beauty of the drawing of
+these hind legs and the extraordinary impression of graceful, rapid
+movement given by their hanging pose, side by side, is not surpassed,
+even if it be equalled, by the work of any modern draughtsman. It is
+clear that the youngest and smallest member of the group is, as is
+natural, the most timid, and that he has sprung off with a sudden bound
+on the occurrence of the alarm from the rear, which is setting the
+whole group into motion with increasing velocity as we pass from right
+to left.
+
+[Illustration: FIG. 4.–Rolled impression or "development" of the
+engraving on the Lortet antler.]
+
+[Illustration: FIG. 5.–Restoration (or completion) of the engraving on
+the Lortet antler, as now (1919) suggested by the writer (E. R. L.).]
+
+The "printed-off," or "unrolled," or "developed" picture given in Fig.
+3 is an exact reproduction of a copy of the cast made and preserved
+in the Museum of National Antiquities at St. Germain, for which
+I am indebted to my friend M. Salomon Reinach, the distinguished
+archæologist who is the director of that museum. It is reproduced
+here, a little larger than half the size of the original, as are the
+representations of the carved cylinder itself (Figs. 1 and 2). In Fig.
+4 we have my attempt to restore the damaged portions of the design and
+to present it as it was when the Palæolithic man completed it some
+20,000 years ago.
+
+I will return to the question of the correctness of this restoration,
+but before doing so I wish to mention some extremely interesting
+points as to the probable use of the cylinder of stag's antler and
+the purpose of the carving around its axis. In the first place, this
+and a few other of the pieces of carving of the post-Glacial period
+were certainly the work of highly gifted and practised artists. It is
+obvious that this work is far superior both in conception and execution
+to the more or less clever, often grotesque, carvings and paintings
+made by modern savages or simple pastoral folk. There is no reason to
+suppose that the Cromagnards, or men of the post-Glacial or Reindeer
+period of West Europe, differed from modern races in being universally
+gifted with artistic capacity. This engraving of three stags is almost
+certainly the work of a man who belonged to a family or guild of
+picture-makers who had cultivated such work for centuries and handed
+it on from master to apprentice. This design is probably one which
+had been perfected by many succeeding observers and draughtsmen. Its
+sureness of line and vivacity of movement are not the outcome of the
+sudden inspiration of an untutored savage, but are the result of the
+growth, cultivation, and development of artistic perception and the
+power of artistic execution in successive generations.
+
+It seems in the highest degree improbable, if not impossible, that so
+excellent a drawing as this should have been cut on the cylindrical
+piece of antler by an engraver who never saw the flat or rolled-off
+impress of his design. One is driven to the conclusion that he must,
+as he worked on the bone, have taken an impress of the growing picture
+from time to time, using probably animal fat and charcoal as an "ink"
+and printing on to a piece of prepared skin or on to a birch-bark
+cloth. How otherwise could he have made his engraving so truly that
+when, ages afterwards, we print it off the cylinder, we are astonished
+and delighted by its perfection of design and execution? If this be
+once admitted–namely, that the artist tested and checked his work by
+printing it off as he proceeded with it–we gain what appears to me
+to be the probable solution of the question which has been largely
+debated, "For what were these carved cylinders or rods used?" Those
+which are simple cylindrical rods, such as the present one, must be
+distinguished from others which have one or more circular holes bored
+in them and others which are curiously bent at an angle. Such specimens
+are often carved with small unimportant ornament, not requiring
+development or printing. They as well as the present class have been
+spoken of as "wands of authority" and "sceptres"; some are considered
+to be arrow straighteners; others have been supposed to be "divining
+rods" or "rods of witchcraft"; whilst one of those discovered by M.
+Piette (others similar to it are known) has been regarded as a "lance
+thrower" or "propulsor" (such as modern primitive races use), having
+a notch at one end upon which the lance to be thrown is made to rest.
+The latest suggestion as to these notch-and-hook-bearing rods, is that
+they are large crochet hooks used in making nets. It has also been
+suggested that some of these carved rods were used as "fasteners" of
+the skins used as clothing.
+
+I venture to suggest that the elaborately carved cylinder which we are
+considering and others bearing similar carvings, which only show up
+when a printing of them is taken, were used by the men who made them
+for this very same "printing" as an end in itself. The picture could be
+thus impressed on skins, birch bark, and other material. This race was
+thoroughly familiar with the use of paint formed by mixing grease with
+charcoal (to produce black), red ochre (to produce red), yellow ochre
+(to produce yellow), and some preparation of limestone or chalk (to
+produce white). Coloured pictures representing animals of the chase,
+coloured with red, yellow, white, and black and outlined by engraving,
+have been discovered on the rock walls of the caves used by them. Such
+pictures are found of relatively early as well as of late date within
+the post-Glacial Palæolithic period (see Chapter III). The rock picture
+of a single animal is usually from two to five feet long. People who
+could make those coloured designs and who could draw and compose so
+admirably as the author of the "Three Red Deer" would have desired to
+"roll off" and to possess printings of their favourite representations
+of animal life, whilst we must admit that their skill and ingenuity was
+assuredly equal to the task of so printing them. If this carving of the
+"Three Red Deer" were never printed it could not have been executed in
+the first place, nor seen and admired when completed. If even only half
+a dozen or a dozen impressions were taken from it for ornamenting the
+skins or other material used by a chief, or a wizard, or a woman, its
+production becomes intelligible. It is true that there is nothing known
+as to the use of such printing from a cylinder among existing primitive
+people, but it is known in very early times (4500 B.C.), since
+cylindrical seals were used by the Babylonians. Elaborately grooved
+blocks used for printing on cloth are known from Fiji and Samoa, and
+the mere practice of printing on to a flat surface is common enough
+among savage races in regard to the human hand, impressions or prints
+of which obtained by the use of a greasy pigment are found upon rocks
+or stones. Sometimes prints of the hand or fingers are taken in clay.
+
+We must not, however, forget that the primary purpose of savage and
+primitive mankind in making images or engravings of animals is that
+of influencing the animals by witchcraft or magic, as has been urged
+by Reinach. From such magic-working drawings the art of savages has
+gradually developed just as religious figures and designs have been the
+initial motive of historic European art.
+
+It seems in any case fairly certain that the artist who engraved our
+picture of the three deer on to the stag's antler must have worked from
+and copied a completed flat drawing, and probably printed it in some
+way on to the prepared antler before engraving its lines thereon and
+also checked the work, as he proceeded, by successive trial printings
+or "proofs" on to a flat surface. It is possible though it does not
+seem very probable, that the drawing was thus committed to perpetual
+invisibility on a cylindrical rod–for the purpose of exercising "magic"
+with that rod. It seems to me that the Cromagnard owner of the rod
+would have wished to see "what the picture really looked like," and so
+would have on some occasion and more than once have "printed it off" or
+as we say "unrolled it."
+
+Leaving that question aside I have a few words to say as to the present
+attempted "completion" of the picture. My difficulty has been in
+realizing the suggestion of a free, graceful "bounding" action given
+by the pair of small hind legs which form all that remains of the
+smallest of the three deer. I have tried various poses of the calf
+indicated by these legs–bucking and jumping, and with fore legs closely
+bent to the horizontal or in a more open position. The fact is there is
+very little in existing drawings or photographs which can help us to a
+decision of the problem, "How did the prehistoric artist complete that
+exquisite little pair of hanging legs?" The problem is more obscure
+even than that of the pose of the arms of the Venus of Melos. One feels
+sure that the man who made this carving was an artist who must keep a
+certain rhythm and flow in the action and form of the three successive
+animals, and it is clear that he was a wonderful observer of the phases
+of the limbs in movement. It is, perhaps, a presumptuous thing to
+attempt on such a basis to recall the thought of a man who died twenty
+thousand years ago, but I set out to do so with the belief that there
+is a necessary figure determined by those hind legs.
+
+Some years ago, as a step towards a solution of the problem, I
+published a "restoration" or "completion" of this picture in the
+"Field" (May 13th, 1911), and asked for criticisms and suggestions from
+the readers of that journal. I had no difficulty as to the completion
+of the biggest stag by drawing in his haunches and hind-legs, but
+the completion of the head and antlers of the smaller stag–and still
+more the calling into being of the entire calf as an inference from
+his or her suspended hind-feet and hoofs alone–were not easy tasks.
+I consulted many authorities and some instantaneous photographs, but
+I was not satisfied with the pose I finally suggested for the calf
+nor with the "points" assigned by my draughtsman to the antlers of
+the smaller stag. Some interesting suggestions were made in reply
+to my appeal by readers of the "Field." Those which seemed to me of
+conclusive weight and value were offered by Mr. Walter Winans, who
+combines the qualifications of a great observer of big game with those
+of a great artist. In the restoration now given in Fig. 5 I have
+profited by Mr. Walter Winans' criticism and have been especially
+glad to make use of the spirited sketch made by him for my benefit,
+and published in the "Field" of 1911, of a red-deer calf when hopping
+along with all the feet together, a movement known as "buck-jumping."
+"Of course," writes Mr. Winans, "this is quite different to the
+bronco-pony's action when trying to get rid of a rider. In the case
+of this kind she does not come down with a jar–but as she lands
+bends her knees and hocks simultaneously and then straightens them,
+also simultaneously, bounding in the air with bent back, tail curled
+tight on back, head thrown back, and ears forward; she never puts
+her fore-legs, either knee or fetlock, beyond her shoulder in this
+action." These words of Mr. Winans and his outline sketch of the
+buck-jumping calf precisely realize what the little hanging legs of
+the rubbed-out calf had been, as it were, urging my tired brain to
+recall and visualize. I am convinced that Mr. Winans' sketch gives the
+completion of the picture as drawn by the artist of the Lortet cavern,
+and satisfies the demand made by the gracefully suspended limbs shown
+in the incompletely preserved original. And so I have used it in my
+final restoration here given in Fig. 5.
+
+The following letter by Mr. Winans, giving valuable comments on the
+Lortet picture, was published in the "Field," and will assist others
+in appreciating its significance: it enabled me to get the middle
+stag's antlers correctly drawn. I have omitted a few lines referring to
+defects in the original restoration–now corrected.
+
+     "SIR,–As Sir Ray Lankester asks for criticism of this wonderful
+     drawing of three deer, perhaps the following may be of interest.
+     I have known deer all my life, and lived amongst them the last
+     twelve years. I agree that the picture is wonderful–better than
+     anything Landseer or Rosa Bonheur drew, because these latter were
+     only artists: one can see by their pictures (full of faults as
+     to attitudes and actions) that they knew nothing of deer. For
+     instance, Landseer's stags were much too big in the body and
+     their heads too small, and even the shape of their horns was
+     conventional....
+
+     "The Lorthet drawings enable one to know all details about the
+     three deer (looking at the original mutilated 'development').
+     First, the deer have 'got the wind' of an enemy, have come a long
+     way, and are moving leisurely, the big stag, as usual, bringing up
+     the rear and taking a last look round before the herd goes out of
+     sight. The second is the younger stag who generally accompanies
+     the big stag and acts as his sentinel when he is sleeping, a stag
+     too small to give the big stag any jealousy as to his hinds. The
+     third is undoubtedly a calf (Red deer are 'stags,' 'hinds,' and
+     'calves,' not 'does' and 'fawns'; the latter terms apply to Fallow
+     deer and Roe-deer).
+
+     "The deer are typical Red deer, not Wapiti, except that the only
+     tail showing (that of the middle deer) is the short Wapiti tail,
+     not the longer tail of the Red deer, and the ears are shorter than
+     those of any existing species of deer.
+
+     "The horns of the big stag are those of typical park Red deer,
+     exactly like the Warnham Park big stag: brow, bay, and tray, with
+     a bunch on top, and the horns are short and straight for their
+     thickness.
+
+     "Now as to the short tail. I am trying, by crossing the Wapiti,
+     Red deer, and Altai to get back to the original deer before the
+     various species got separated, and my 'three-cross' deer show
+     these very characteristics, as follows: Red deer or Warnham
+     horns, short Wapiti tail, and the rather Roman nose which this
+     'development' print shows. The only difference is the short ears.
+     Is it not possible that, as the artist is able to draw the horns
+     in perspective and show the anatomy and proportions so well, that
+     the ears are meant to be drawn fore-shortened?
+
+     "The stag's mouth is open because he is big and fat and is blowing
+     (not roaring or bellowing). If it was the rutting season, when
+     stags roar, the stag would be tucked up in the belly and have a
+     tuft of hair hanging under the middle of it. He and the stag in
+     front are moving in the real action (not the conventional action
+     Rosa Bonheur and Landseer drew, but what the ancient Egyptians
+     drew sometimes) of a slow, easy canter.... Now as to the middle
+     stag's horns. I should give him, bearing in mind he is the small
+     sentry stag, brow, tray, and three on top–a ten-pointer, the thin
+     points showing in the original drawing indicating that he had thin
+     horns–in fact, a three-year old.
+
+     "In a Scotch forest a ten-pointer is a comparatively old stag, but
+     at Warnham and my place, where the feeding is good (and in my case
+     there is hand feeding all the year round), a spike stag gets six
+     points and can almost be a royal the next year.
+
+     "All this shows that the deer at the time this drawing was made
+     must have had very good feeding and come to maturity quickly,
+     like modern park deer. The big stag would never have allowed a
+     ten-pointer in his herd if the latter had been an old stag.
+
+     "As to the action of the leading hind. I think she is a hind-calf
+     by her legs, and is jumping with all four legs together, the
+     way young deer do when playing, and, being young, is paying no
+     attention to the danger behind, but is full of life, like a horse
+     playing about when he is fresh. One often sees the calves of a
+     herd playing like this if the herd is moving along steadily....
+
+     "From the position of the hind legs of the little calf I judge
+     that she is jumping with all four legs together (the jump from
+     which the expression 'buck jumping' comes); her tail would be
+     curled up tight over her back like a pug dog carries it, only
+     without the curl, and her ears pricked forward. The piece of horn
+     broken off would show the rest of the hinds and calves, led by an
+     old 'yeld' (_i.e._, barren) hind, who would be leading the herd
+     up wind with her nose and ears forward to 'get the wind' of any
+     danger ahead.
+
+     "The day is a hot one in the middle of August, shown by the big
+     stag blowing and his being with the hinds, instead of with other
+     stags by themselves, and by his not having 'run' yet, though his
+     horns are clear of velvet. He is most likely the stag on whose
+     horn this is engraved. The length of the deer's feet shows that
+     they live on ground which is soft and not many stones about to
+     wear down their toes.
+
+     "Maybe the fish indicate that the deer are crossing a shallow
+     ford, and the salmon are getting frightened and jumping. The
+     right-hand-most fish is just in the attitude of a hooked salmon
+     trying to leap clear of the fly....
+
+     "The picture was most likely first drawn on some flat flexible
+     surface, skin or bark, in a sticky medium, and then transferred to
+     the horn by rolling it round the horn and then rubbing it. This
+     would give a transfer, which would guide the subsequent engraving,
+     otherwise it would be very difficult to engrave direct on the
+     horn, and mistakes could not easily be corrected.
+
+                                        "WALTER WINANS
+
+    "SURRENDEN PARK, PLUCKLEY, KENT"
+
+With regard to the six fishes in the picture of "The Three Red Deer," I
+think that there can be little doubt that they are put in in the same
+spirit of exuberance which induced early Italian masters to introduce
+a cherub wherever a space for him could be found. The fish represented
+are the same in each case, and are undeniably salmonids. Presumably
+they are drawn on a larger scale than the deer. Their markings and the
+form of the head are deserving of some criticism and comment by those
+who are familiar with fish as seen by the fisherman. Probably the
+artist's friends at Lourdes captured fish in those days by spearing
+them with serrated bone-headed fish spears or harpoons (Fig. 3). No
+fish hooks of bone have been found in the cave of Lortet or in others
+of like age, although needles and whistles of bone and other useful
+little instruments, as well as serrated spear heads and harpoons have
+been obtained in several of them.
+
+The tool used by the prehistoric man in engraving the cylinder of
+stag's antler was undoubtedly a suitable chipped-out piece of flint–a
+flint graving tool, in fact a "burin," such as are abundant in these
+caves.
+
+[Illustration: FIG. 6.–Fragment of a roughly-painted vase of the
+Dipylon age (_circa_ 800 B.C.) from Tiryns, figured by Schliemann and
+cited by Hörnes in his "History of Pictorial Art in Europe." Compare
+the fish between the horse's legs with the fish in the Lortet picture
+of the Three Deer; also note the lozenge-shaped designs (similar to the
+pair above the big stag in the Lortet picture) near the fish and near
+the man's head (_d_); and, further, the swastika (_s_).]
+
+Attention has been drawn by Hörnes in his "History of Pictorial Art
+in Europe" to the resemblance of the Lortet picture to a fragment of
+a roughly painted vase of the Dipylon age (_circa_ 800 B.C.) found at
+Tiryns and figured by Schliemann in his account of excavations made at
+that ancient Mykenæan fortress of the Peloponese. The fragment (Fig.
+6) shows very roughly drawn figures of a man and of a horse. Between
+the fore and hind legs of the horse a large elaborately ornate fish
+is represented, reminding us of the fishes between the deer's legs in
+the Lortet picture. Two other similar fragments of pottery, showing
+a fish in this position, are recorded by Schliemann. The drawing is
+conventional and careless. It is of a debased decorative character, and
+is very far removed from the careful nature-true work of the Lortet
+cave-man. It is not possible to trace by any known line of transmission
+a connection between the engraving executed 20,000 years ago in the
+caves of the Pyrénées and the figures rapidly knocked off in black
+paint on the Tiryns vase some 17,000 years later by the local dealers
+in cheap pottery. Yet we cannot avoid the suggestion that there is
+some connection between the two designs. For the Tiryns painting shows
+not only the curious upright fish between the horse's legs, but also
+diamond-shaped figures–one marked _d_ in Fig. 6, another near the
+fish's tail, and another between the man's feet–closely resembling
+the pair of diamond-shaped figures engraved above the neck of the big
+stag in the Lortet picture (see Figs. 4 and 5). As we do not know what
+these diamond-shaped figures or "lozenges" are intended to signify
+in either case, we do not get, at present, beyond the bald fact of
+their coincidence. The Tiryns painting also shows (at _s_ in Fig. 6)
+a "swastika" (see Chapter XVII), and below the man's arm a carelessly
+drawn bit of the ancient wave-fret or key-pattern. It is, of course,
+possible that the tradition of an ancient design–even dating so far
+back in origin as many thousands of years–may be preserved in the
+use made in the Tiryns decoration of the fish and the diamond-shaped
+lozenges, though associated with the swastika and the bit of wave-fret
+which are probably of later origin and are not known in the decorative
+work of the cave-men. The Mykenæan decorative assimilation of geese to
+the ship's barnacle exercised its influence over three thousand years
+and led to the mediæval belief in the hatching of young geese from
+barnacles attached to floating timber, and even from the buds of trees
+(see my "Diversions of a Naturalist": Methuen, 1915). Nevertheless it
+must not be supposed that the connection of the Lortet engraving and
+the vase-painting of Tiryns is probable or more than a very remote
+possibility. The gap in time is too vast, and our present ignorance
+of what took place in that interval too complete, to warrant us in
+regarding the resemblance as more than a coincidence.
+
+
+FOOTNOTES:
+
+[1] "L'Age du Renne," a posthumous work, with one hundred coloured
+quarto plates of objects in the Piette collection, is published by
+Masson, of Paris, and gives the complete list of Piette's numerous
+earlier papers, issued as his excavations proceeded.
+
+[2] Seven years ago the ape-like lower jaw and thick walled brain-case
+called "Eoanthropus" were discovered in a sparse gravel near Lewes in
+Sussex. It is probably of older date than either the Neander men or
+the Heidelberg men. See on this subject the chapters on "The Missing
+Link" in my "Diversions of a Naturalist" (1915) and those on "The Most
+Ancient Men" and "The Cave-men's Skulls" in "Science from an Easy
+Chair. First Series" (1910).
+
+
+
+
+CHAPTER II
+
+PORTRAITS OF MAMMOTHS BY MEN WHO SAW THEM
+
+
+Some fifty-five years ago pieces of reindeer's antler were discovered
+in the cave known as "La Madeleine" in the Dordogne (a department of
+France some eighty miles east of Bordeaux), upon which were engraved
+the outlines of various animals such as reindeer and horses. They and
+the bone spear-heads and needles, and the flint knives found with
+them, were the first revelation to later man of the existence of the
+prehistoric cave-men. Among the carvings was a piece of ivory which
+excited the profoundest interest. Partly hidden by a confused mass
+of scratches it showed the well-drawn outline of the great extinct
+elephant, thus scratched or "engraved" on a bit of its own tusk (Fig.
+7). The engraving was barely 5 in. long, and has been reproduced in
+many books. The specimen is now in Paris, and was for long the only
+known representation of the Mammoth by the ancient men who lived with
+it in Western Europe.
+
+[Illustration: FIG. 7.–Engraving of a mammoth drawn upon a piece of
+mammoth's ivory, found in the cave of La Madeleine in the Dordogne,
+in 1864. The specimen is in the Museum of Natural History, Paris. The
+engraving is here represented of the actual size.]
